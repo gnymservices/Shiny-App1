@@ -1,0 +1,12 @@
+name: Shiny-App1
+title: Shiny-App1
+username:
+account: garcin-momo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3948943
+bundleId: 4461237
+url: https://garcin-momo.shinyapps.io/Shiny-App1/
+when: 1618237324.6911
+asMultiple: FALSE
+asStatic: FALSE
