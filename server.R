@@ -77,7 +77,7 @@ server <- function(input, output) {
   output$mydownload = downloadHandler(
     filename = "select_miners.csv",
     content = function(file){
-      write.csv(weighted.Data(), file)
+      write.csv(MCM(), file)
     }
   )
     
